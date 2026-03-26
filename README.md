@@ -1,5 +1,4 @@
 # forensic-osint-toolkit
-# forensic-osint-toolkit
 
 A Python-based toolkit for **Digital Forensics and Open Source Intelligence (OSINT)** investigations.
 This project simulates a **real-world forensic investigation workflow**, including password cracking, file validation, metadata extraction, and movement analysis.
