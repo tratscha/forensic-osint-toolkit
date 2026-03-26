@@ -62,7 +62,7 @@ python main.py --mode zip --file sample.zip
 python main.py --mode detect --file suspicious.bin
 ```
 
-✔ Detects real file type using **magic numbers**, even if renamed
+ Detects real file type using **magic numbers**, even if renamed
 
 ---
 
