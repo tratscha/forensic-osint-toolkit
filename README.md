@@ -72,7 +72,7 @@ python main.py --mode detect --file suspicious.bin
 python main.py --mode exif --file image.jpg
 ```
 
-✔ Extracts:
+ Extracts:
 
 * GPS coordinates
 * timestamps
@@ -86,8 +86,8 @@ python main.py --mode exif --file image.jpg
 python main.py --mode route
 ```
 
-✔ Displays extracted GPS points
-✔ Simulates movement path
+ Displays extracted GPS points
+ Simulates movement path
 
 ---
 
@@ -97,8 +97,8 @@ python main.py --mode route
 python main.py --mode check
 ```
 
-✔ Calculates distance between locations
-✔ Verifies if movement is realistic
+ Calculates distance between locations
+ Verifies if movement is realistic
 
 ---
 
@@ -108,7 +108,7 @@ python main.py --mode check
 python main.py --mode report
 ```
 
-✔ Creates:
+ Creates:
 
 ```
 report/report.txt
