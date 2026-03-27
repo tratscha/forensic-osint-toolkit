@@ -114,6 +114,10 @@ report/report.txt
 ```
 
 ---
+## screenshots
+<img width="1400" height="900" alt="mock_report_output" src="https://github.com/user-attachments/assets/e8ff8f8b-c773-43b8-9165-c623eb6e0389" />
+<img width="1400" height="900" alt="mock_flask_output" src="https://github.com/user-attachments/assets/775fe4e7-09b1-49ea-81ba-2f7c4ea5fde3" />
+<img width="1400" height="900" alt="mock_cli_output" src="https://github.com/user-attachments/assets/a99e4114-d0f7-4810-83ad-b91877cf17cc" />
 
 ##  Investigation Workflow
 
