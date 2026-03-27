@@ -147,14 +147,23 @@ To simulate realistic forensic conditions, the following assumptions are made:
 ##  Project Structure
 
 ```
-modules/
+forensic-osint-toolkit/
 │
-├── zip_cracker.py        # Brute-force ZIP password recovery
-├── file_detector.py      # File signature (magic number) analysis
-├── exif_extractor.py     # Metadata extraction
-├── route_analysis.py     # GPS route reconstruction
-├── plausibility_check.py # Movement validation
-└── report_generator.py   # Report creation
+├── main.py
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── modules/
+│   ├── zip_cracker.py
+│   ├── file_detector.py
+│   ├── exif_extractor.py
+│   ├── route_analysis.py
+│   ├── plausibility_check.py
+│   └── report_generator.py
+│
+├── flask_app/
+  └── app.py
 ```
 
 ---
