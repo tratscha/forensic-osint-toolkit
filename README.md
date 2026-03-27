@@ -1,9 +1,4 @@
 # forensic-osint-toolkit
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Flask](https://img.shields.io/badge/Flask-WebApp-black)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-![Focus](https://img.shields.io/badge/Focus-Digital%20Forensics-red)
-![OSINT](https://img.shields.io/badge/OSINT-Enabled-orange)
 
 A Python-based toolkit for **Digital Forensics and Open Source Intelligence (OSINT)** investigations.
 This project simulates a **real-world forensic investigation workflow**, including password cracking, file validation, metadata extraction, and movement analysis.
